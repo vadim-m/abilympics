@@ -559,7 +559,7 @@ div.text {
   margin-bottom: 50px;
 }
 .registration_bottom .back {
-  background: url("../../../../images/static_data/redesign/registration_bg.jpg") center;
+  background: url("../images/static_data/redesign/registration_bg.jpg") center;
   height: 675px;
   display: flex;
   align-items: center;
